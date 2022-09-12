@@ -2,11 +2,11 @@
 Este repositório refere-se ao curso de formação em Java realizado na Alura
 
 ## Java JRE e JDK: compile e execute o seu programa - finalizado
-  JVM? JDK? JRE? O que são essas siglas?
-  Compilando e executando código java
-  Aprenda a usar Eclipse
+  JVM JDK JRE
+  Compilandar e executar código java
+  Usar Eclipse
   Variáveis e controle de fluxo
-  Conheça os principais tipos do Java
+  Conheçer os principais tipos do Java
 ## Java OO: entendendo a Orientação a Objetos - finalizado
   Dominar o paradigma de programação mais usado no mercado de trabalho
   Entender o que são referências e objetos
